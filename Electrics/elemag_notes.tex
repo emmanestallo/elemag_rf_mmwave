@@ -4,6 +4,7 @@
 \usepackage{amsmath,amssymb}
 \usepackage{graphicx}
 \usepackage{float}
+\usepackage{mathtools}
 
 \title{Electrostatics and Electrodynamics}
 \author{Emmanuel Estallo}
@@ -134,7 +135,73 @@ We can determine the sign depending on the normal vector from the sheet.
 
 \newpage 
 \section{Flux Density, Gauss' Law, and Divergence}
+\subsection{Electric Flux Density}
 \noindent 
+Denote the electric flux density $\vec{D}$. The direction of $\vec{D}$ at a point 
+is the direction of the flux lines at that point. The magnitude is given by the number
+of flux lines crossing a surface normal to the lines divided by the surface area. 
+\vspace{8pt}
+Consider the figure below,
+\begin{figure}[H]
+    \center
+    \includegraphics[scale=0.65]{sphere_charge}
+\end{figure}
+\noindent 
+For the sphere, 
+\begin{align*}
+    D \Big|_{r=a} &= \frac{Q}{4\pi a^2}\vec{a_r} \; (inner \; sphere)\\
+    D \Big|_{r=b} &= \frac{Q}{4\pi b^2}\vec{a_r} \; (outer \; sphere)
+\end{align*}
+at any point inside the sphere where $a\leq r \leq b$,
+\begin{equation*}
+D = \frac{Q}{4\pi r^2}\vec{a_r}
+\end{equation*}
+\noindent 
+For a free space,
+\begin{align*}
+D &= \epsilon_0 E \\
+\Aboxed{D &= \int_{vol} \frac{\rho_v dv}{4\pi R^2} \vec{a_R}}
+\end{align*}
+
+\subsection{Gauss' Law}
+\noindent 
+The electric flux passing through any imaginary spherical surface lying between two 
+conducting spheres is equal to the charge enclosed within that imaginary surface.
+\begin{align*}
+\Psi = \oint_S D_S \cdot dS &= Q \\ 
+\oint_S D_S \cdot dS &= \int_{vol} \rho_v dv
+\end{align*}
+\newpage 
+\noindent 
+Consider the figure below. 
+\begin{figure}[H]
+    \center
+    \includegraphics[scale=0.65]{sphere_diff_area.png}
+\end{figure}
+\noindent 
+Here, the differential area $dS$ is obtained by multiplying the length and width 
+of the infinitesimal surface. 
+\begin{align*}
+L &= r d\theta \\
+W &= r \sin\theta d\phi \\ 
+\vec{dS} &= r^2 \sin\theta d\theta d\phi \;\vec{a_R}
+\end{align*}
+\noindent 
+We obtain the integrand 
+\begin{align*}
+D_S \cdot dS &= \frac{Q}{4\pi a^2} \; \vec{a_R} \cdot 
+a^2 \sin\theta d\theta d\phi \;\vec{a_R} \\ 
+&= \frac{Q}{4\pi} \sin\theta d\theta d\phi
+\end{align*}
+\noindent 
+which leads to 
+\begin{align*}
+\Psi &= \int_{\phi=0}^{\phi=2\pi} \int_{\theta=0}^{\theta=\pi}
+\frac{Q}{4\pi}\sin\theta d\theta d\phi \\ 
+&= \int_{0}^{2\pi} \frac{Q}{2\pi} d\phi \\ 
+&= Q 
+\end{align*}
+
 
 
 
