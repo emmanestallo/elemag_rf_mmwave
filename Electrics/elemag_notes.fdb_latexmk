@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1627962961 "d:/emman/elemag_rf/elemag_rf_mmwave/Electrics/elemag_notes.tex" "elemag_notes.pdf" "elemag_notes" 1627962962
+["pdflatex"] 1627962961 "d:/emman/elemag_rf/elemag_rf_mmwave/Electrics/elemag_notes.tex" "elemag_notes.pdf" "elemag_notes" 1627962992
   "C:/Users/emman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1623174191 9742850 26d024e17b8a14f415b7a7ee7b66df72 ""
   "C:/Users/emman/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1627225000 82686 2381c3433487640bf26aa76a10db7eb2 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -62,12 +62,12 @@
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1623003325 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1623003325 4007 3bccccf8f35e1bc1ef0f7c55ceeb7713 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1620382912 27177 c0f5f128013bde6670e188c4af243210 ""
-  "d:/emman/elemag_rf/elemag_rf_mmwave/Electrics/elemag_notes.tex" 1627962960 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
+  "d:/emman/elemag_rf/elemag_rf_mmwave/Electrics/elemag_notes.tex" 1627962991 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
   "elemag_notes.aux" 1627962962 777 b3cb45825b51739e5a51773f1bdd1793 "pdflatex"
-  "elemag_notes.tex" 1627962960 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
+  "elemag_notes.tex" 1627962991 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
   "inf_line_charge.png" 1627918671 13928 18634d73009e4260a20c1a4a701d23f8 ""
   "inf_sheet_charge.png" 1627958554 12142 684dde7d03808b0fe35ba4c8b9e870a9 ""
   (generated)
+  "elemag_notes.log"
   "elemag_notes.pdf"
   "elemag_notes.aux"
-  "elemag_notes.log"
