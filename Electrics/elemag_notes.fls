@@ -1,6 +1,6 @@
-PWD d:\emman\elemag_rf\elemag_rf_mmwave
+PWD d:\emman\elemag_rf\elemag_rf_mmwave\Electrics
 INPUT C:\Users\emman\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\emman\elemag_rf\elemag_rf_mmwave\elemag_notes.tex
+INPUT d:\emman\elemag_rf\elemag_rf_mmwave\Electrics\elemag_notes.tex
 OUTPUT elemag_notes.log
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
