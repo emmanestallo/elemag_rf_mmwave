@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.9)  3 AUG 2021 01:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.9)  3 AUG 2021 11:45
 entering extended mode
 **d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex
 (d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex
@@ -216,19 +216,25 @@ Package pdftex.def Info: inf_line_charge.png  used on input line 43.
 (pdftex.def)             Requested size: 157.71382pt x 152.82056pt.
  [1
 
-{C:/Users/emman/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./inf_line_charge.png>] [2] (elemag_notes.aux) ) 
+{C:/Users/emman/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./inf_line_charge.png>] [2]
+<inf_sheet_charge.png, id=21, 362.85562pt x 268.00125pt>
+File: inf_sheet_charge.png Graphic file (type png)
+<use inf_sheet_charge.png>
+Package pdftex.def Info: inf_sheet_charge.png  used on input line 106.
+(pdftex.def)             Requested size: 199.5712pt x 147.40112pt.
+ [3 <./inf_sheet_charge.png>] [4] (elemag_notes.aux) ) 
 Here is how much of TeX's memory you used:
- 2982 strings out of 478864
- 41646 string characters out of 2848661
+ 2992 strings out of 478864
+ 41897 string characters out of 2848661
  360943 words of memory out of 3000000
- 20886 multiletter control sequences out of 15000+600000
+ 20896 multiletter control sequences out of 15000+600000
  411293 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,10n,66p,265b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on elemag_notes.pdf (2 pages, 154193 bytes).
+ 57i,12n,66p,265b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on elemag_notes.pdf (4 pages, 179655 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 82 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

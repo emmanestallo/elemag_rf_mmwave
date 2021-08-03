@@ -98,6 +98,47 @@ Finally,
 $$ \boxed{\vec{E} = \frac{\rho_L}{2\pi\epsilon_0\rho}\vec{a_\rho}}$$
 We can see that only the distance $\rho$ affects the magnitude. 
 
+\newpage 
+\subsubsection{Field of a Sheet of Charge}
+Consider the sheet of charge placed at the y-z plane shown below. 
+\begin{figure}[H]
+    \center
+    \includegraphics[scale=0.55]{inf_sheet_charge}
+\end{figure}
+\noindent 
+We can use the electric field magnitude of a line charge to obtain the magnitude of 
+this sheet. 
+\vspace{8pt}
+\\ We know that for a line charge, 
+\begin{equation*}
+\vec{E} = \frac{\rho_L}{2\pi\epsilon_0\rho}\vec{a_\rho}
+\end{equation*}
+Let $\rho_S$ be the surface charge density and $\rho_L = \rho_S dy'$ where $dy'$ is the 
+infinitesimal width of the strip. We select an arbitrary point along the x axis.   
+\begin{align*}
+\vec{dE} &= \frac{\rho_S dy'\vec{a_N}}{2\pi\epsilon_0\sqrt{x^2+y'^2}}\cos\theta \\
+&= \frac{\rho_S dy'\vec{a_N}}{2\pi\epsilon_0\sqrt{x^2+y'^2}}\frac{x}{\sqrt{x^2+y'^2}} \\
+\vec{E}&=\int_{-\infty}^{\infty}\frac{\rho_S \vec{a_N}}{2\pi\epsilon_0}\frac{xdy'}
+{x^2+y'^2} \\
+&= \frac{\rho_S \vec{a_N}}{2\pi\epsilon_0} \int_{-\infty}^{\infty} \frac{xdy'}
+{x^2+y'^2}\\
+&= \frac{\rho_S \vec{a_N}}{2\pi\epsilon_0} \int_{-\infty}^{\infty} x
+\frac{dy'}{x^2+y'^2}\\
+&= \frac{\rho_S \vec{a_N}}{2\pi\epsilon_0}\tan^{-1}\left(\frac{y'}{x}\right)
+\Bigg|_{y'=-\infty}^{\infty}
+\end{align*}
+Finally,
+$$\boxed{\vec{E}=\frac{\rho_S}{2\epsilon_0}\vec{a_N}}$$
+This means that the electric field magnitude from a sheet of charge is constant.
+We can determine the sign depending on the normal vector from the sheet. 
+
+\newpage 
+\section{Flux Density, Gauss' Law, and Divergence}
+\noindent 
+
+
+
+
 
 
 

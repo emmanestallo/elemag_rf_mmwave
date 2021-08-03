@@ -280,6 +280,12 @@ INPUT .\inf_line_charge.png
 INPUT .\inf_line_charge.png
 INPUT .\inf_line_charge.png
 INPUT C:\Users\emman\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT .\inf_sheet_charge.png
+INPUT inf_sheet_charge.png
+INPUT .\inf_sheet_charge.png
+INPUT .\inf_sheet_charge.png
+INPUT .\inf_sheet_charge.png
+INPUT .\inf_sheet_charge.png
 INPUT elemag_notes.aux
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
@@ -303,5 +309,7 @@ INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
+INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy5.pfb
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\emman\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb

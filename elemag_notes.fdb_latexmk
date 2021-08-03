@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1627923755 "d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex" "elemag_notes.pdf" "elemag_notes" 1627923765
+["pdflatex"] 1627962345 "d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex" "elemag_notes.pdf" "elemag_notes" 1627962346
   "C:/Users/emman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1623174191 9742850 26d024e17b8a14f415b7a7ee7b66df72 ""
   "C:/Users/emman/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1627225000 82686 2381c3433487640bf26aa76a10db7eb2 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -34,6 +34,7 @@
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1247596666 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1583523400 6501 4011d89d9621e0b0901138815ba5ff29 ""
@@ -61,11 +62,12 @@
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1623003325 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1623003325 4007 3bccccf8f35e1bc1ef0f7c55ceeb7713 ""
   "C:/Users/emman/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1620382912 27177 c0f5f128013bde6670e188c4af243210 ""
-  "d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex" 1627923764 4239 4aaad07bd79ad7a0349e54cb26afeab9 ""
-  "elemag_notes.aux" 1627923756 525 3cf0dd11014f2879ea42c641ecd6b567 "pdflatex"
-  "elemag_notes.tex" 1627923764 4239 4aaad07bd79ad7a0349e54cb26afeab9 ""
+  "d:/emman/elemag_rf/elemag_rf_mmwave/elemag_notes.tex" 1627962344 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
+  "elemag_notes.aux" 1627962346 777 b3cb45825b51739e5a51773f1bdd1793 "pdflatex"
+  "elemag_notes.tex" 1627962344 5799 41ac7a82b4b91ed6e5594e00df164af9 ""
   "inf_line_charge.png" 1627918671 13928 18634d73009e4260a20c1a4a701d23f8 ""
+  "inf_sheet_charge.png" 1627958554 12142 684dde7d03808b0fe35ba4c8b9e870a9 ""
   (generated)
-  "elemag_notes.pdf"
   "elemag_notes.log"
   "elemag_notes.aux"
+  "elemag_notes.pdf"
